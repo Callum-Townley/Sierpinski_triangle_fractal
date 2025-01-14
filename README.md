@@ -1,3 +1,3 @@
 # Sierpinski_triangle_fractal
-will be used to learn how to use github
-Hello guys it is me lord fumbledum
+This was my first project placed on github just to figure out how it works
+I successfully created a Sierpinski triangle utilising the python turtle library and some recursion
